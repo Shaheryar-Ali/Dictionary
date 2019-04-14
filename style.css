@@ -1,0 +1,13 @@
+.navbar-fixed-top {
+    min-height: 100px;
+}
+
+.navbar-fixed-top .navbar-collapse {
+    max-height: 100px;
+}
+
+@media (min-width: 768px) {
+    .navbar-fixed-top .navbar-collapse {
+        max-height: 100px;
+    }
+}
